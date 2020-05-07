@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=Cx1-1
+Removed Pin From Net: NetName=GND Pin=M1-1
+Removed Pin From Net: NetName=GND Pin=MP1-1
+Removed Pin From Net: NetName=+5 Pin=MP1-2
+Removed Pin From Net: NetName=GND Pin=MP1-4
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=+5 Pin=U1-3
+Removed Member From Class: ClassName=drone Member=Cx1
+Removed Member From Class: ClassName=drone Member=M1
+Removed Member From Class: ClassName=drone Member=MP1
+Removed Member From Class: ClassName=drone Member=U1
+Change Class Name : Old Net Name=drone New Net Name=dronev2
+Added Room: Name=dronev2

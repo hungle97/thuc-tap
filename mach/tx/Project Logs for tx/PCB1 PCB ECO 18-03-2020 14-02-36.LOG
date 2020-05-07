@@ -1,0 +1,46 @@
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.alps.com/prod/info/E/HTML/MultiControl/Potentiometer/RKJXK/RKJXV1224005.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "688-RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1239578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1239578"; VariantName = "[No Variations]"
+Added Component: Designator=J1(RKJXV1224005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.alps.com/prod/info/E/HTML/MultiControl/Potentiometer/RKJXK/RKJXV1224005.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "688-RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1239578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1239578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.alps.com/prod/info/E/HTML/MultiControl/Potentiometer/RKJXK/RKJXV1224005.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "688-RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1239578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1239578"; VariantName = "[No Variations]"
+Added Component: Designator=J2(RKJXV1224005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.alps.com/prod/info/E/HTML/MultiControl/Potentiometer/RKJXK/RKJXV1224005.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ALPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "688-RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RKJXV1224005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1239578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1239578"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J1-5
+Added Pin To Net: NetName=A0 Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=+5 Pin=J1-8
+Added Pin To Net: NetName=A1 Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=+5 Pin=J2-5
+Added Pin To Net: NetName=A2 Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=+5 Pin=J2-8
+Added Pin To Net: NetName=A3 Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Member To Class: ClassName=tx Member=Component J1 RKJXV1224005
+Added Member To Class: ClassName=tx Member=Component J2 RKJXV1224005

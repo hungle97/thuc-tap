@@ -1,0 +1,66 @@
+Added Pin To Net: NetName=+5 Pin=Arduino1-5V
+Added Pin To Net: NetName=+5 Pin=J1-7
+Added Pin To Net: NetName=+5 Pin=J1-10
+Added Pin To Net: NetName=+5 Pin=J2-7
+Added Pin To Net: NetName=+5 Pin=J2-10
+Added Pin To Net: NetName=+5 Pin=MP2307 Module-2
+Added Pin To Net: NetName=+5 Pin=U1-3
+Added Net: Name=+5
+Added Pin To Net: NetName=A0 Pin=Arduino1-A0
+Added Pin To Net: NetName=A0 Pin=J1-6
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=Arduino1-A1
+Added Pin To Net: NetName=A1 Pin=J1-9
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=Arduino1-A2
+Added Pin To Net: NetName=A2 Pin=J2-6
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=Arduino1-A3
+Added Pin To Net: NetName=A3 Pin=J2-9
+Added Net: Name=A3
+Added Pin To Net: NetName=CE Pin=Arduino1-D9
+Added Pin To Net: NetName=CE Pin=M1-2
+Added Net: Name=CE
+Added Pin To Net: NetName=CLK Pin=Arduino1-D13
+Added Pin To Net: NetName=CLK Pin=M1-3
+Added Net: Name=CLK
+Added Pin To Net: NetName=CSN Pin=Arduino1-D10
+Added Pin To Net: NetName=CSN Pin=M1-7
+Added Net: Name=CSN
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=Cx1-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=GND Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Pin To Net: NetName=GND Pin=J2-13
+Added Pin To Net: NetName=GND Pin=J2-14
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=MP2307 Module-1
+Added Pin To Net: NetName=GND Pin=MP2307 Module-4
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=Arduino1-D12
+Added Pin To Net: NetName=MISO Pin=M1-4
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=Arduino1-D11
+Added Pin To Net: NetName=MOSI Pin=M1-6
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetCx1_2 Pin=Cx1-2
+Added Pin To Net: NetName=NetCx1_2 Pin=M1-8
+Added Pin To Net: NetName=NetCx1_2 Pin=MP2307 Module-3
+Added Pin To Net: NetName=NetCx1_2 Pin=U1-2
+Added Net: Name=NetCx1_2
+Added Pin To Net: NetName=VCC Pin=Arduino1-VIN
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Net: Name=VCC
+Added Class: Name=tx
+Added Room: Name=tx

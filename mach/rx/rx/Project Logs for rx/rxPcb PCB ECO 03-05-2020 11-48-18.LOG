@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=CE Pin=IC1-20
+Added Pin To Net: NetName=CSN Pin=IC1-24
+Added Pin To Net: NetName=CE Pin=M2-2
+Added Pin To Net: NetName=CSN Pin=M2-7

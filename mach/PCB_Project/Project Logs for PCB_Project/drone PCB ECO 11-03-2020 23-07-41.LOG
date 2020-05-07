@@ -1,0 +1,31 @@
+Added Component: Designator=M?(NRF24L01)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creator"; Value = "Nguyen Ba Bien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Website"; Value = "http://group3i.net"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT223)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creator"; Value = "Nguyen Ba Bien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Website"; Value = "http://group3i.net"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=M?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=+5 Pin=U?-3
+Added Pin To Net: NetName=CE Pin=Arduino1-D9
+Added Pin To Net: NetName=CE Pin=M?-2
+Added Net: Name=CE
+Added Pin To Net: NetName=CLK Pin=Arduino1-D13
+Added Pin To Net: NetName=CLK Pin=M?-3
+Added Net: Name=CLK
+Added Pin To Net: NetName=CSN Pin=Arduino1-D10
+Added Pin To Net: NetName=CSN Pin=M?-7
+Added Net: Name=CSN
+Added Pin To Net: NetName=MISO Pin=Arduino1-D12
+Added Pin To Net: NetName=MISO Pin=M?-4
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=Arduino1-D11
+Added Pin To Net: NetName=MOSI Pin=M?-6
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetM?_8 Pin=M?-8
+Added Pin To Net: NetName=NetM?_8 Pin=U?-2
+Added Net: Name=NetM?_8
+Added Member To Class: ClassName=drone Member=Component M? NRF24L01
+Added Member To Class: ClassName=drone Member=Component U? LM1117-3.3V

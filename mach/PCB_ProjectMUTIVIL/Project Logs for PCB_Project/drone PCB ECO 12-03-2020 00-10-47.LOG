@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Net Name : Old Net Name=NetM?_8 New Net Name=NetM1_8
+Added Room: Name=drone

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetLED1_2 Pin=LED1-2
+Removed Pin From Net: NetName=VCC Pin=R2-1
+Removed Member From Class: ClassName=sch Member=LED3
+Removed Member From Class: ClassName=sch Member=R4
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED2
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetU?_5 New Net Name=NetU1_5

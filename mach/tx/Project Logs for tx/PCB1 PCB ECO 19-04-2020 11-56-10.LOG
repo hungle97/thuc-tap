@@ -1,0 +1,6 @@
+Change Component Library : Designator=MP2307 Module Old Library=0503.IntLib New Library=0503.SchLib
+Added Pin To Net: NetName=GND Pin=Cx1-2
+Added Pin To Net: NetName=GND Pin=M1-8
+Added Pin To Net: NetName=GND Pin=MP2307 Module-3
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Room: Name=tx

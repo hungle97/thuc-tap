@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=IC1 Old Footprint=ARDPROMINI New Footprint=ARDPROMINI 2
+Change Component Footprint: Designator=C6 Old Footprint=JP7-C1T New Footprint=JP7-C1C
+Change Component Comment : Designator=IC1 Old Comment=Arduino_Pro_Mini_1 New Comment=Arduino_Pro_Mini_2

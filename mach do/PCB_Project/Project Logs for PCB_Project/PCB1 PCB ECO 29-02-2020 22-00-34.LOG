@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=NetC1_3 Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=NetLED3_1 Pin=U1-4
+Removed Pin From Net: NetName=VCC Pin=U1-12
+Removed Member From Class: ClassName=sch Member=U1
+Added Component: Designator=U?(DIP14)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC1_3 Pin=U?-2
+Added Pin To Net: NetName=VCC Pin=U?-3
+Added Pin To Net: NetName=NetLED3_1 Pin=U?-4
+Change Net Name : Old Net Name=GND New Net Name=NetLED1_2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Net: Name=GND
+Added Pin To Net: NetName=NetU?_5 Pin=U?-5
+Added Pin To Net: NetName=NetU?_5 Pin=VR1-2
+Added Net: Name=NetU?_5
+Added Member To Class: ClassName=sch Member=Component U? LM339

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5 Pin=Cx2-2
+Removed Pin From Net: NetName=+5 Pin=LoLin-1-VIN
+Removed Pin From Net: NetName=+5 Pin=U1-2
+Change Net Name : Old Net Name=+5 New Net Name=GND
+Added Pin To Net: NetName=+5 Pin=Cx2-2
+Added Pin To Net: NetName=+5 Pin=LoLin-1-VIN
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Net: Name=+5
+Added Member To Class: ClassName=schematic Member=Component D1 Diode
+Added Member To Class: ClassName=schematic Member=Component R1 Res

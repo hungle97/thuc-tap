@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+5 Pin=S1-5
+Removed Pin From Net: NetName=A0 Pin=S1-6
+Removed Pin From Net: NetName=GND Pin=S1-7
+Removed Pin From Net: NetName=+5 Pin=S1-8
+Removed Pin From Net: NetName=A1 Pin=S1-9
+Removed Pin From Net: NetName=GND Pin=S1-10
+Removed Pin From Net: NetName=+5 Pin=S2-5
+Removed Pin From Net: NetName=A2 Pin=S2-6
+Removed Pin From Net: NetName=GND Pin=S2-7
+Removed Pin From Net: NetName=+5 Pin=S2-8
+Removed Pin From Net: NetName=A3 Pin=S2-9
+Removed Pin From Net: NetName=GND Pin=S2-10
+Removed Member From Class: ClassName=tx Member=S1
+Removed Member From Class: ClassName=tx Member=S2

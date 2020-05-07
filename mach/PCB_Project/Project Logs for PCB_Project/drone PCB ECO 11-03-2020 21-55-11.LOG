@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=Arduino? NewDesignator=Arduino1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=MU? NewDesignator=MU1
+Change Net Name : Old Net Name=NetArduino?_5V New Net Name=NetArduino1_5V
+Change Net Name : Old Net Name=NetArduino?_A4 New Net Name=NetArduino1_A4
+Change Net Name : Old Net Name=NetArduino?_A5 New Net Name=NetArduino1_A5
+Change Net Name : Old Net Name=NetArduino?_GND New Net Name=NetArduino1_GND
+Added Member To Class: ClassName=drone Member=Component C1 JP3
+Added Member To Class: ClassName=drone Member=Component C2 JP3
+Added Member To Class: ClassName=drone Member=Component C4 JP3

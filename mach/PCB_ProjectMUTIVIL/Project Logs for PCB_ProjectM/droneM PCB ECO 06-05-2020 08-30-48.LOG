@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=LF Pin=Arduino1-D4
+Removed Pin From Net: NetName=LB Pin=Arduino1-D5
+Removed Pin From Net: NetName=RB Pin=Arduino1-D6
+Removed Pin From Net: NetName=RF Pin=Arduino1-D7
+Added Pin To Net: NetName=LF Pin=Arduino1-D3
+Added Pin To Net: NetName=RB Pin=Arduino1-D9
+Added Pin To Net: NetName=RF Pin=Arduino1-D10
+Added Pin To Net: NetName=LB Pin=Arduino1-D11
+Added Pin To Net: NetName=NetArduino1_D2 Pin=Arduino1-D2
+Added Pin To Net: NetName=NetArduino1_D2 Pin=C4-1
+Added Net: Name=NetArduino1_D2
+Added Pin To Net: NetName=NetArduino1_D4 Pin=Arduino1-D4
+Added Pin To Net: NetName=NetArduino1_D4 Pin=C4-2
+Added Net: Name=NetArduino1_D4
+Added Pin To Net: NetName=NetArduino1_D5 Pin=Arduino1-D5
+Added Pin To Net: NetName=NetArduino1_D5 Pin=C4-3
+Added Net: Name=NetArduino1_D5
+Added Pin To Net: NetName=NetArduino1_D6 Pin=Arduino1-D6
+Added Pin To Net: NetName=NetArduino1_D6 Pin=C4-4
+Added Net: Name=NetArduino1_D6
+Change Class Name : Old Net Name=dronev2 New Net Name=droneM
+Change Room Name: Old Name=dronev2 New Name=droneM
+Change Room Scope: Old Scope=InComponentClass('dronev2') New Scope=InComponentClass('droneM')

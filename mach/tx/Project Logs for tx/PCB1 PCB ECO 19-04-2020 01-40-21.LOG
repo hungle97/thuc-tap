@@ -1,0 +1,18 @@
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx1(CN-SMD-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=MP2307 Module(Mini360)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=Cx1-1
+Added Pin To Net: NetName=GND Pin=MP2307 Module-1
+Added Pin To Net: NetName=+5 Pin=MP2307 Module-2
+Added Pin To Net: NetName=GND Pin=MP2307 Module-4
+Added Pin To Net: NetName=NetCx1_2 Pin=Cx1-2
+Added Pin To Net: NetName=NetCx1_2 Pin=M1-8
+Added Pin To Net: NetName=NetCx1_2 Pin=MP2307 Module-3
+Added Pin To Net: NetName=NetCx1_2 Pin=U1-2
+Added Net: Name=NetCx1_2
+Added Member To Class: ClassName=tx Member=Component Cx1 XXpF
+Added Member To Class: ClassName=tx Member=Component MP2307 Module MP2307 DC-DC Switching Buck Step-Down Module
+Added Room: Name=tx
