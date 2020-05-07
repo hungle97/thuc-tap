@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C2 Old Footprint=CA-ALU-5L New Footprint=CA-ALU-5
+Added Member To Class: ClassName=droneM24 Member=Component MU1 MPU6050
+Added Room: Name=droneM24
