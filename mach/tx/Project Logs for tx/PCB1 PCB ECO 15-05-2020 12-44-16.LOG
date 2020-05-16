@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=MP1-1
+Removed Pin From Net: NetName=VCC Pin=MP1-2
+Removed Pin From Net: NetName=NetM1_8 Pin=MP1-3
+Removed Pin From Net: NetName=GND Pin=MP1-4
+Removed Member From Class: ClassName=tx Member=MP1
+Added Component: Designator=MP2307 Module(Mini360)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=MP2307 Module-1
+Added Pin To Net: NetName=VCC Pin=MP2307 Module-2
+Added Pin To Net: NetName=NetM1_8 Pin=MP2307 Module-3
+Added Pin To Net: NetName=GND Pin=MP2307 Module-4
+Added Member To Class: ClassName=tx Member=Component MP2307 Module MP2307 DC-DC Switching Buck Step-Down Module

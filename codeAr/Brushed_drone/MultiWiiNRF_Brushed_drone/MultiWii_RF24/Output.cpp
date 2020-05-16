@@ -422,10 +422,10 @@ void writeMotors() { // [1000;2000] => [125;250]
    * We substract 1000 and multiply by 2 in order to get a PWM signal
    * with a duty cycle from 0 to 100%
    */
-  motor[0] = (motor[0]-1000) << 1;
-  motor[1] = (motor[1]-1000) << 1;
-  motor[2] = (motor[2]-1000) << 1;
-  motor[3] = (motor[3]-1000) << 1;
+//  motor[0] = (motor[0]-1000) << 1;
+//  motor[1] = (motor[1]-1000) << 1;
+//  motor[2] = (motor[2]-1000) << 1;
+//  motor[3] = (motor[3]-1000) << 1;
   
   
     #if (NUMBER_MOTOR > 0)
