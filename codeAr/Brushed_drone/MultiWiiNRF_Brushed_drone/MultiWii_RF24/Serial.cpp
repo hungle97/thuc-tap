@@ -88,6 +88,7 @@ void UartSendData(uint8_t port) {
              USB_Send(USB_CDC_TX,serialBufferTX[serialTailTX[0]],1);
            #else
              Serial.write(serialBufferTX[serialTailTX[0]],1);
+             Serial.println(serialBufferTX[serialTailTX[0]]);
            #endif
          }
         break;
